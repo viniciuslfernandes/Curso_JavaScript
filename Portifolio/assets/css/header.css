@@ -42,7 +42,7 @@
     margin: 0.5rem;
 }
 
-.information .person::before{
+.information .job::before{
     background-image: url("../icons/person.svg");
 }
 .information .location::before{

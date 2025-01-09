@@ -1,7 +1,7 @@
 {
     "name": "Vinícius Lima Fernandes",
     "photo": "https://github.com/viniciuslfernandes/Curso_JavaScript/blob/main/Portifolio/assets/img/vinicius.jpeg",
-    "person": "Engenharia de Computação",
+    "job": "Engenharia de Computação",
     "location": "Cataguases - SP",
     "whatsapp": "(32) 99968-3596",
     "email": "viniciuslima99@live.com",
@@ -33,11 +33,12 @@
         }
       ],
       "softSkills": [
-        "Empatia",
+        "Comunicação",
         "Liderança",
         "Trabalho em equipe",
-        "Flexibilidade",
-        "Organização"
+        "Resolução de Problemas",
+        "Organização",
+        "Flexibilidade"
       ]
     },
     "languages": [
