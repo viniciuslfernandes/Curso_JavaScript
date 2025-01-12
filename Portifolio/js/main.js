@@ -31,8 +31,10 @@ function updateHardSkills(profileData){
 }
 
 function updatePortifolio(profileData){
-    const portifolio = document.getElementById("profile.portifolio")
-    portifolio.innerHTML = profileData.portifolio.map(projeto =>{
+    console.log(profileData)
+    const portfolio = document.getElementById("profile.portfolio")
+    console.log(portfolio)
+    portfolio.innerHTML = profileData.portfolio.map(projeto =>{
         return `
         <li>
             <h3 ${projeto.github ? 'class="github"' : ''}>${projeto.name}</h3>
